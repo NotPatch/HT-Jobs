@@ -1,0 +1,6 @@
+name: HT-Jobs
+version: ${project.version}
+main: pw.hysteria.jobs.Jobs
+api-version: 1.18
+commands:
+  deneme:

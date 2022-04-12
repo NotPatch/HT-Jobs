@@ -1,0 +1,12 @@
+MINER:
+  DIAMOND_ORE:
+    amount: 3-15
+    rewards:
+      '1':
+        commands:
+          - "money give %player% 100"
+          - "give %player% obsidian 8"
+        lore:
+          - "asasdsa"
+          - "asdasd"
+
